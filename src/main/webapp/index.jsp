@@ -889,7 +889,7 @@
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
                     <h3>iphone 16 pro max </h3>
-                    <div class="price">$free <span class="old-price">$1,199</span></div>
+                    <div class="price">$10<span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -898,7 +898,7 @@
                 <img src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Laptop" class="product-img">
                 <div class="product-info">
                     <h3>MacBook Pro 14"</h3>
-                    <div class="price">$free</div>
+                    <div class="price">$10</div>
                     <div class="rating">★★★★☆ <span>(86)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -908,7 +908,7 @@
                 <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartwatch" class="product-img">
                 <div class="product-info">
                     <h3>samsung watch series 8</h3>
-                    <div class="price">$free <span class="old-price">$399</span></div>
+                    <div class="price">$10<span class="old-price">$399</span></div>
                     <div class="rating">★★★★★ <span>(214)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -917,7 +917,7 @@
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Sneakers" class="product-img">
                 <div class="product-info">
                     <h3>Nike Air Max 270</h3>
-                    <div class="price">$free</div>
+                    <div class="price">$10</div>
                     <div class="rating">★★★★☆ <span>(53)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
